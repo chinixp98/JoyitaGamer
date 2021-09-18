@@ -1,8 +1,8 @@
 body {
     background-color: darkcyan;
     margin-top: 25px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: auto;
+    margin-right: auto;
 
     h1 {
         color: blue;
@@ -13,7 +13,8 @@ body {
 
     img {
         display: block;
-        margin: auto;
+        margin-left: auto;
+        margin-right: auto;
         height: 500px;
         width: 750px;
         border: 4px solid black;
