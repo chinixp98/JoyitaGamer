@@ -1,0 +1,59 @@
+body {
+  background-color: darkcyan;
+  margin-top: 25px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+body h1 {
+  color: blue;
+  text-align: center;
+  font-size: 100px;
+  text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+body img {
+  display: block;
+  margin: auto;
+  height: 500px;
+  width: 750px;
+  border: 4px solid black;
+}
+
+body h2 {
+  color: black;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body p {
+  font-size: 30px;
+  text-align: justify;
+  font-family: monospace;
+}
+
+body h3 {
+  font-size: 35px;
+  margin-left: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+}
+
+body li {
+  font-size: 30px;
+  font-family: monospace;
+  margin-top: 10px;
+  text-align: justify;
+}
+
+body h4 {
+  font-size: 50px;
+  text-align: center;
+}
+
+body a {
+  font-size: 50px;
+  text-align: center;
+  color: darkred;
+}
+/*# sourceMappingURL=style.css.map */
